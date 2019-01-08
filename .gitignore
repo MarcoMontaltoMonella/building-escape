@@ -1,10 +1,14 @@
 ##########################
 # Unreal Generated Files #
-##########################
+# UE Derived
 */Build
 */Binaries
 */DerivedDataCache
 */Intermediate
 */Saved
 BuildingEscape/Content/StarterContent/
+
+# Workspaces
 BuildingEscape/BuildingEscape.xcworkspace/
+BuildingEscape/BuildingEscape.code-workspace
+BuildingEscape/.vscode/
